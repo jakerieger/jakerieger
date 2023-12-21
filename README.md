@@ -7,4 +7,4 @@
 I've been writing code for 13 years both professionally and as a hobby. I spend most of my time nowadays in graphics and performance optimizing lower-level code, although I have very strong experience in full-stack development, specifically in Rust and React.
 
 - 🎓 Instructor at [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
-- 🏫 Software engineering major
+- 🏫 Cybersec Engineering major
