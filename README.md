@@ -1,8 +1,11 @@
-[![Jake Rieger's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakerieger&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakerieger&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jakerieger&theme=tokyonight&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=jakerieger&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&border_radius=16" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakerieger&theme=tokyonight&layout=compact&hide_border=true&border_radius=16" />
+</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jakerieger&theme=tokyonight&hide_border=true&border_radius=16&card_width=848" alt="GitHub Streak" /></a>
 
 ### Howdy 👋
 
