@@ -10,3 +10,4 @@ Just a dude that likes to make computers do things. Memory and low level code ge
 
 - 🎓 Instructor at [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 - 🏫 Cybersec Engineering major
+- 🧑‍💻 Owner: [ATOM Factory](https://github.com/atom-factory)
