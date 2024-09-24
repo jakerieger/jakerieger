@@ -7,7 +7,3 @@
 ### Howdy 👋
 
 Just a dude that likes to make computers do things. Memory and low level code gets me hot and bothered. Aspiring graphics programmer. I'm in an abusive relationship with C++, please help.
-
-- 🎓 Instructor at [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
-- 🏫 Cybersec Engineering major
-- 🧑‍💻 Owner: [ATOM Factory](https://github.com/atom-factory)
