@@ -8,6 +8,6 @@ I'm currently actively maintaining two projects:
 
 Xen is a loosely-typed, imperative scripting language written in C. 
 
-### [clic](https://github.com/jakerieger/clic) - v0.1.0
+### [clic](https://github.com/jakerieger/clic) - v0.1.1
 
 clic is a header-only library for building CLI applications in C.
